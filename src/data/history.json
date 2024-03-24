@@ -1,0 +1,23 @@
+{
+    "education": [
+      {
+        "title": "Bachelor of Science, Software Development",
+        "date": "04/2025",
+        "institution": "Brigham Young University - Idaho",
+        "location": "Rexburg, ID"
+      },
+      {
+        "title": "Certificate in Web & Computer Programming",
+        "date": "04/2023",
+        "institution": "Brigham Young University-Idaho",
+        "location": "Rexburg, ID"
+      },
+      {
+        "title": "PathwayConnect Certificate",
+        "date": "09/2022",
+        "institution": "BYU-Pathway Worldwide",
+        "location": "Salt Lake City, UT"
+      }
+    ]
+  }
+  
